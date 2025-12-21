@@ -446,16 +446,6 @@ input[type="email"]:focus {
   filter: drop-shadow(0 0 6px #4dd6b9);
 }
 
-.footer-link {
-  color: #9ca3af;
-  text-decoration: none;
-}
-
-.footer-link:hover {
-  color: #e5e7eb;
-  text-decoration: underline;
-}
-
 /* Responsive */
 
 @media (max-width: 900px) {
